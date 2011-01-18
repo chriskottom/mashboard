@@ -3,7 +3,6 @@
 *.cache
 .bundle
 .gitkeep
-.rvmrc
 config/database.yml
 config/gmail.yml
 db/*.sqlite3
