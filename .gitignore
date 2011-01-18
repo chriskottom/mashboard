@@ -1,0 +1,15 @@
+*~
+\#*#
+*.cache
+.bundle
+.gitkeep
+.rvmrc
+config/database.yml
+config/gmail.yml
+db/*.sqlite3
+doc/api
+doc/app
+doc/plugins
+doc/*.dot
+log/*.log
+tmp/**/*
